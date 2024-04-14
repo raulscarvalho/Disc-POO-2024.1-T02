@@ -7,7 +7,7 @@ R$ 5,00 o ingresso, serão vendidos 120 ingressos, e que as despesas serão de R
 R$ 0,50 o preço dos ingressos, espera-se que as vendas aumentem em 26 ingressos. Faça um programa que
 escreva uma tabela de valores de lucros esperados em função do preço do ingresso, fazendo-se variar esse pre-
 ço de R$ 5,00 a R$ 1,00, de R$ 0,50 em R$ 0,50. Escreva, ainda, para cada novo preço de ingresso, o lucro
-máximo esperado, o preço do ingresso e a quantidade de ingressos vendidos para a obtenção desse lucro.
+máximo esperado, o preço do ingresso e a quantidade de ingressos vendidos para a obtenção desse lucro.|
 |8|Faça um programa que receba a idade, o peso, a altura, a cor dos olhos (A — azul; P — preto; V — verde; e
 C — castanho) e a cor dos cabelos (P — preto; C — castanho; L — louro; e R — ruivo) de seis pessoas, e que
 calcule e mostre:
