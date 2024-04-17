@@ -11,7 +11,7 @@
 * [Raúl Simioni](https://github.com/raulscarvalho)
 
 ## Sobre o Repositório
-#### Contém neste repositório as soluções dos 25 exercícios resolvidos e os 5 exercícios propostos do Capítulo 3 do livro "Fundamentos da Programação de Computadores".
+#### Contém neste repositório as soluções dos 25 exercícios resolvidos e os 5 exercícios propostos dos Capítulos 4 e 5 do livro "Fundamentos da Programação de Computadores".
 
 #### Esses exercícios são requisitados pelo Trabalho 02, da disciplina de Programação Orientada a Objeto, no semestre 2024.1, lecionada no Instituto Federal do Ceará. 
 
